@@ -1,0 +1,11 @@
+Package: freesurfR
+Type: Package
+Title: FreeSurfer Group Analysis Tools
+Version: 0.5
+Date: 2014-05-23
+Author: Andreas Berger
+Maintainer: Andreas Berger <n0642496@students.meduniwien.ac.at>
+Depends: ggplot2
+Suggests: cortex
+Description: This package contains tools for doing group analysis of FreeSurfer (recon-all) processed surface data using the general linear model (lm).
+License: GPL-2

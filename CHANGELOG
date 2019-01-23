@@ -1,0 +1,3 @@
+pending:
+-changed a few alpha levels in plots function
+-qdec function converts factors with more or less than two levels to numeric, this produced qdec errors previously
